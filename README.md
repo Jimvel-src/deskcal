@@ -33,4 +33,4 @@ Or, you can just run the Index.html and just about turn any device with a displa
 > ```
 > https://calendar.google.com/calendar/embed?src=<mail>%40<mail-site>.com&ctz=<continent>%2F<Location, ig, idk>
 > ```
-> and now you have access to your own tasks and events, which you can add in the Google Calander app or website on another device (Or if you want, you can just oven it on the Pi, dont forget remove Kiosk mode tho...)
+> and now you have access to your own tasks and events, which you can add in the Google Calander app or website on another device (Or if you want, you can just even do it on the Pi, dont forget remove Kiosk mode tho...)
